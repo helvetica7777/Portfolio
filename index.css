@@ -15,6 +15,9 @@ h1 {
   height:300px;
   padding:20px;
 }
+p {
+  padding: 25px 50px;
+}
 
 
 /* .container{background:yellow;
@@ -38,12 +41,12 @@ a:hover{
     border-left: 200px solid transparent;
     border-right: 50px solid grey;
     height: 0;
-    width: 600px;
+    width: 500px;
 }
 .trapezoid1 {
     border-bottom: 500px solid grey;
     border-left: 200px solid transparent;
     border-right: 150px solid grey;
     height: 0;
-    width: 800px;
+    width: 650px;
 }
