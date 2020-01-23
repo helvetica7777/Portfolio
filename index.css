@@ -15,7 +15,7 @@ h1 {
   padding:20px;
 }
 p {
-  padding: 25px 50px;
+  padding: 25px 25px;
 
 }
 .intro{
@@ -27,7 +27,12 @@ p {
   margin-right: auto;
   width: 50%;
 }
+main {
 
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
 /* .container{background:yellow;
 width:400px;
 height:400px;
@@ -42,7 +47,8 @@ html{height:100%;}
 a{color:blue;
 text-decoration:none;}
 a:hover{
-  text-decoration:underline;
+  background:black;
+  color:white;
 }
 .trapezoid {
     border-bottom: 300px solid grey;
@@ -57,4 +63,7 @@ a:hover{
     border-right: 150px solid grey;
     height: 0;
     width: 650px;
+}
+.functions{
+  font-size: 20px;
 }
