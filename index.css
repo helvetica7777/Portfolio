@@ -2,7 +2,7 @@ body {
   background:white;
   background-repeat: no-repeat;
   background-size: 100%;
-  font-family: Ribeye;
+  font-family: Garamond;
 }
 nav{background-color: black;}
 nav a{color:white;}
@@ -16,6 +16,10 @@ h1 {
 }
 p {
   padding: 25px 50px;
+
+}
+.intro{
+  font-size: 25px;
 }
 .center {
   display: block;
