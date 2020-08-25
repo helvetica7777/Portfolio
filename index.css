@@ -87,3 +87,7 @@ a:hover{
 .gallery h2~img{
   width:300px;
 }
+.aboutme{
+  padding:70px 70px;
+  font-size:20px;
+}
